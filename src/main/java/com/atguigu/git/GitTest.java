@@ -20,5 +20,6 @@ public class GitTest {
         System.out.println("测试1");
         System.out.println("测试2");
         System.out.println("github修改");
+        System.out.println("github修改2");
     }
 }
